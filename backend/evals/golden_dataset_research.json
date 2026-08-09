@@ -1,0 +1,23 @@
+{
+  "watch_topic": "large language models",
+  "documents": [
+    {
+      "id": "res1",
+      "title": "Attention Is All You Need",
+      "raw_text": "We propose a new simple network architecture, the Transformer, based solely on attention mechanisms.",
+      "expected_relevant": true
+    },
+    {
+      "id": "res2",
+      "title": "A Survey of LLMs",
+      "raw_text": "A comprehensive review of the evolution and architecture of Large Language Models.",
+      "expected_relevant": true
+    },
+    {
+      "id": "res3",
+      "title": "Optimizing Supply Chain Logistics",
+      "raw_text": "A new method for integer linear programming in supply chain.",
+      "expected_relevant": false
+    }
+  ]
+}

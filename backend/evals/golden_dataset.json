@@ -1,0 +1,65 @@
+{
+  "watch_topic": "artificial intelligence regulation",
+  "documents": [
+    {
+      "id": "doc1",
+      "title": "National AI Initiative Act",
+      "raw_text": "To establish a coordinated Federal initiative to accelerate artificial intelligence research and application for the economic and national security of the United States. Sets standards for safety and ethics in AI models.",
+      "expected_relevant": true
+    },
+    {
+      "id": "doc2",
+      "title": "Safe and Secure Innovation for Frontier AI Models",
+      "raw_text": "Executive order requiring developers of the most powerful AI systems to share their safety test results and other critical information with the U.S. government.",
+      "expected_relevant": true
+    },
+    {
+      "id": "doc3",
+      "title": "Algorithmic Accountability Act",
+      "raw_text": "Directs the FTC to require entities that use, store, or share personal information to conduct impact assessments of automated decision systems and augmented critical decision processes.",
+      "expected_relevant": true
+    },
+    {
+      "id": "doc4",
+      "title": "AI Risk Management Framework",
+      "raw_text": "NIST guidance document for organizations designing, developing, deploying, or using AI systems to help manage the many risks of AI and promote trustworthy and responsible development and use of AI systems.",
+      "expected_relevant": true
+    },
+    {
+      "id": "doc5",
+      "title": "Generative AI Copyright Act",
+      "raw_text": "Requires a notice to be submitted to the Register of Copyrights with respect to the use of copyrighted works in building generative AI systems.",
+      "expected_relevant": true
+    },
+    {
+      "id": "doc6",
+      "title": "Agricultural Equipment Maintenance Rule",
+      "raw_text": "Proposed rule regarding the standardization of diagnostic tools for heavy agricultural machinery to ensure right-to-repair.",
+      "expected_relevant": false
+    },
+    {
+      "id": "doc7",
+      "title": "National Park Service Budget Adjustment",
+      "raw_text": "Adjustments to the operational budget of the National Park Service for the 2026 fiscal year, covering maintenance and ranger salaries.",
+      "expected_relevant": false
+    },
+    {
+      "id": "doc8",
+      "title": "Highway Infrastructure Grant Program",
+      "raw_text": "Details the application process for states to receive federal matching funds for bridge and highway repair projects under the new infrastructure bill.",
+      "expected_relevant": false
+    },
+    {
+      "id": "doc9",
+      "title": "Medicare Telehealth Expansion Act",
+      "raw_text": "A bill to expand the list of telehealth services covered under Medicare Part B during the ongoing public health recovery phase.",
+      "expected_relevant": false
+    },
+    {
+      "id": "doc10",
+      "title": "Federal Aviation Administration Reauthorization",
+      "raw_text": "Reauthorizes the FAA through 2030, establishing new standards for pilot training and aircraft certification timelines.",
+      "expected_relevant": false
+    }
+  ]
+}

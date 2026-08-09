@@ -1,0 +1,4 @@
+# Frontend dependencies (used by Streamlit Cloud deployment)
+# Backend has its own requirements at backend/requirements.txt
+streamlit
+requests
