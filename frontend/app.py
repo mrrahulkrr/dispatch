@@ -4,8 +4,8 @@ import requests
 import streamlit as st
 import streamlit.components.v1 as components
 
-# Ensure frontend directory is on sys.path for relative imports
-sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+# Ensure project root is on sys.path for absolute imports (from frontend.styles import ...)
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from frontend.styles import (
     REGION_META, get_region_options, get_region_code_from_label,
